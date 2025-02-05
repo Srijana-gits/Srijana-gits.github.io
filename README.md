@@ -9,4 +9,4 @@ I have experience in html, java, javascript and python.
 
 
 ## Contact
-You can reach me at [LinkedIn](www.linkedin.com/in/srijanaashrestha.
+You can reach me at www.linkedin.com/in/srijanaashrestha.
